@@ -103,7 +103,7 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'web',
+      name: 'twitter',
       url: 'apex-solutions.ga',
     },
     {
