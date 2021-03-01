@@ -104,7 +104,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: 'apex-solutions.ga',
+      url: 'https://www.apex-solutions.ga/',
     },
     {
       id: nanoid(),
