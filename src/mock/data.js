@@ -59,7 +59,7 @@ export const projectsData = [
     title: 'Q4C Shop',
     info: 'Q4C Shop is an online shopping site which user can buy their preferred product. Users have to provide shipping details before doing the payments.',
     info2: 'Used technologies are React framework, React redux, Email.js, Google login, JSON Webtoken, Java Script, Bootstrap 4, Cloudinary, Paypal getway, Rest API back end, Express JS, Mongo DB Database',
-    url: 'http://computer-science-quiz.cf/',
+    url: 'https://q4c-online-shop.herokuapp.com/',
     repo: 'https://github.com/NimeshMadusanka/q4c-shop', // if no repo, the button will not show up
   },
     {
