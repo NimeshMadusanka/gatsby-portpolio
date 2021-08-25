@@ -36,7 +36,7 @@ export const projectsData = [
     info:
       'Subscription.lk is online newspaper ordering site in wijeya newspapers. User can order news papers provide relevant details and payments.',
     info2:
-      'Used technologies are React Framework, Payment gateway, HTML 5, CSS, PHP, Bootstrap 4, and MYSQL Database.',
+      'Used technologies are react Framework, Payment gateway, HTML 5, CSS, PHP, Bootstrap 4, and MYSQL Database.',
     url: 'https://www.subscription.lk/',
     repo: 'https://github.com/NimeshMadusanka', // if no repo, the button will not show up
   },
