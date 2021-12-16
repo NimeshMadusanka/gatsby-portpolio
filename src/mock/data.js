@@ -32,7 +32,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'Capture.PNG',
-    title: 'Gottamenu.app',
+    title: 'Preassessme',
     info:
       'Gottamenu.app is a US client-based food find application that included physical and Digital menus.',
     info2:
