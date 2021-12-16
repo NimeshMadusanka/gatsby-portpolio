@@ -32,6 +32,17 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'Capture.PNG',
+    title: 'Preassessme',
+    info:
+      'Gottamenu.app is a US client-based food find application that included physical and Digital menus.',
+    info2:
+      'Used technologies are Matrial UI, React framework, React redux, Mongo DB, SendGrid, Google login, JWT webtoken, react hooks, Express.js, formik.',
+    url: 'https://gottamenu.app/',
+    repo: 'https://github.com/NimeshMadusanka', // if no repo, the button will not show up
+  },
+    {
+    id: nanoid(),
+    img: 'Capture.PNG',
     title: 'Gottamenu.app',
     info:
       'Gottamenu.app is a US client-based food find application that included physical and Digital menus.',
